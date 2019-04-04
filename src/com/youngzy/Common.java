@@ -14,4 +14,8 @@ public class Common {
 	public void doSomething() {
 
 	}
+	
+	public void doSomethingByBranchA() {
+		
+	}
 }
