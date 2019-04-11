@@ -18,4 +18,11 @@ public class Common {
 	public void doSomethingByBranchA() {
 		
 	}
+	
+	/**
+	 * branch-b 上新增的方法
+	 */
+	public void doXXXByBranchB() {
+		
+	}
 }
