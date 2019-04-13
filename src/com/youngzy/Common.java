@@ -30,4 +30,9 @@ public class Common {
 
 		System.out.println("branch c");
 	}
+	
+	private void doD() {
+		// TODO Auto-generated method stub
+
+	}
 }
