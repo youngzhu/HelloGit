@@ -27,7 +27,7 @@ public class Common {
 	}
 	
 	private void doBranchC() {
-		// TODO Auto-generated method stub
 
+		System.out.println("branch c");
 	}
 }
