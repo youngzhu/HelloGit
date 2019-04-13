@@ -25,4 +25,9 @@ public class Common {
 	public void doXXXByBranchB() {
 		
 	}
+	
+	private void doBranchC() {
+		// TODO Auto-generated method stub
+
+	}
 }
