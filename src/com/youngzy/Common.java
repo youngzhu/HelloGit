@@ -32,7 +32,6 @@ public class Common {
 	}
 	
 	private void doD() {
-		// TODO Auto-generated method stub
-
+		// it's almost DONE
 	}
 }
