@@ -1,3 +1,7 @@
 rebase commit 1
+<<<<<<< HEAD
 rebase commit 2
 rebase commit 3
+=======
+rebase commit 2
+>>>>>>> branch 'master' of https://github.com/youngzhu/HelloGit.git
