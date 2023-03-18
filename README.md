@@ -10,7 +10,7 @@
 
 ## 博客
 - [reset 和 revert 的区别](http://www.youngzy.com/blog/2019/08/git-difference-between-reset-and-revert-using-eclipse/)
-- [IDEA 教程：如何使用 git cherry-pick 合并指定改动？](http://www.YoungZY.com/)
+- [IDEA 教程：如何使用 git cherry-pick 合并指定改动？](http://www.youngzy.com/blog/2023/03/git-cherry-pick-with-idea/)
 
 
 ## 参考
