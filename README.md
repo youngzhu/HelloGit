@@ -1,4 +1,4 @@
-# Git/EGit 练习项目 
+# git 练习项目 
 
 ## Rebase
 合并的另一种方式，有别于Merge。  
